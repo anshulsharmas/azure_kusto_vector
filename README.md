@@ -32,3 +32,5 @@ It will allow you to -
 3. Convert raw text query to an embedding with OpenAI API. 
 
 4. Use Kusto to perform cosine similarity search in the stored embeddings.
+
+### You can check the solution with AAD authentication and Kusto queries [here](Using%20_kusto_queries.ipynb).
